@@ -16,3 +16,14 @@ All rightio, so now you've got your Python Notebook, you've got your text upload
 Issues? Send me a message through Github. Otherwise, you can reach my secretary at this mailing address: Keenandrea91@gmail.com
 
 ![ScreenShot](/images/train_a.PNG)
+![ScreenShot](/images/train_b.PNG)
+![ScreenShot](/images/train_c.PNG)
+![ScreenShot](/images/train_d.PNG)
+![ScreenShot](/images/train_e.PNG)
+![ScreenShot](/images/train_f.PNG)
+![ScreenShot](/images/train_h.PNG)
+![ScreenShot](/images/train_i.PNG)
+![ScreenShot](/images/train_j.PNG)
+![ScreenShot](/images/train_k.PNG)
+![ScreenShot](/images/train_l.PNG)
+![ScreenShot](/images/train_m.PNG)
