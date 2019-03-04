@@ -49,7 +49,7 @@ def generate_seq(model, tokenizer, seq_length, seed_text, n_words):
 
 
 # load cleaned text sequences
-in_filename = 'republic_sequences.txt'
+in_filename = 'trial_sequences.txt'
 doc = load_doc(in_filename)
 lines = doc.split('\n')
 # specify the expected length of input
